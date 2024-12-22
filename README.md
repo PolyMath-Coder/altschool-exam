@@ -33,7 +33,7 @@ Reconfigured VagrantFile
 Synced Folder: Syncs the ./html directory on your host to /var/www/html in the VM.
 
 
-4. Add an index.html File: Create html/index.html and add your static HTML content.
+4. Add an index.html File: Create html/index.html and add your static HTML content. Also nginx is inputted in the Vagrant which serves as web server.
 
 5. Bring Up the Virtual Machine by running the script below:
 
