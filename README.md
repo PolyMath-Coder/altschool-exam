@@ -27,7 +27,7 @@ vagrant init ubuntu/focal64
 2. Edit the Vagrantfile: Open the Vagrantfile and configure the settings. Replace the default content with the following as indicated.
 
 Reconfigured VagrantFile
-![VagrantFile](/assets/assets/img-1.jpeg)
+![VagrantFile](/assets/img-1.jpeg)
 
 3. Forward Port: Maps port 80 inside the VM to port 8080 on the host machine.
 Synced Folder: Syncs the ./html directory on your host to /var/www/html in the VM.
@@ -52,7 +52,7 @@ vagrant ssh
 ```
 This then appears on the terminal.
 
-![VagrantSSH](/assets/assets/img-2.png)
+![VagrantSSH](/assets/img-2.png)
 
 
 7. Open your browser and visit
