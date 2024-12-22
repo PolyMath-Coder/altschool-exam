@@ -62,3 +62,5 @@ http://102.89.22.22/index.html
 
 ```
 This then appears on the browser.
+
+![VagrantSSH](/assets/img-3.jpeg)
