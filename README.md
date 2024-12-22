@@ -4,7 +4,7 @@
 
 ## Demonstration/Documentation of Project Solution
 The choice virtualization tools used in executing this project include
-1. Virtual Box - which simulates a plain computer upon which provides/enables virtualization.
+1. Virtual Box - which simulates a plain computer and provides/enables virtualization.
 2. Vagrant - which manages virtual machines.
 
 
