@@ -54,6 +54,21 @@ Allow HTTP (port 80) and SSH (port 22).
    ![Connection Instance](/assets/ssh-photo.jpeg)
 
 
+ ### Step 3: Install & Upgrade all needful Packages
+
+    ```
+   $ sudo apt update && sudo apt upgrade -y
+
+   ```
+
+ ### Step 4:Install NGINX
+
+ ```
+   $ sudo apt install nginx -y
+ ```
+  
+
+
 
 
 
