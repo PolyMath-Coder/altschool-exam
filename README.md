@@ -67,8 +67,8 @@ Allow HTTP (port 80) and SSH (port 22).
     $ sudo apt install nginx -y
 
     ```
-  
-Navigate to the NGINX web root directory and Replace the default HTML file in the NGINX Web root directory i.e. /var/www/html
+ 
+ ### Step 5:  Navigate to the NGINX web root directory and Replace the default HTML file in the NGINX Web root directory i.e. /var/www/html
 
 
 
