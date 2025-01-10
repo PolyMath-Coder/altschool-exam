@@ -94,7 +94,7 @@ Navigate to the NGINX web root directory and Replace the default HTML file
 7. Open your browser and visit
 
 ```
-http://102.89.22.22/index.html
+http://102.89.22.22
 
 ```
 This then appears on the browser.
