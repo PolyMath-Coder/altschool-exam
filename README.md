@@ -89,9 +89,7 @@ Navigate to the NGINX web root directory and Replace the default HTML file
 
 
 
-
-
-7. Open your browser and visit
+7. Open the browser and visit
 
 ```
 http://102.89.22.22
@@ -99,4 +97,4 @@ http://102.89.22.22
 ```
 This then appears on the browser.
 
-![VagrantSSH](/assets/img-3.jpeg) -->
+![VagrantSSH](/assets/img-3.jpeg) 
