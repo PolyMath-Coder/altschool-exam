@@ -4,8 +4,8 @@
 
 ## Demonstration/Documentation of Project Solution
 
-    The choice virtualization tool used in executing this project is majorly
--  AWS EC2 Instance - which simulates a plain computer and provides/enables virtualization.
+    The choice virtualization tool used in executing this project is majorly the AWS EC2
+    AWS EC2 Instance - An instance creation of EC2 simulates a plain typical computer and provides/enables virtualization.
 
 
 ## Procedure
